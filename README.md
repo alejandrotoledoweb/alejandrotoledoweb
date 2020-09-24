@@ -1,7 +1,14 @@
+### Alejandro Toledo - Software Developer
 ### Hi there 👋
 
 My name is Alejandro, friends call me Alex. Currently I am a student at Microverse Software Developer Program.
 Available for hiring.
+
+- 💪 Current Goals: 
+
+🧑‍🎓 Get Graduated from Microverse on February 2021
+📘 Keep learning more code languages
+✌️ Collaborate in new projects
 
 - 📫 How to reach me: 
 
