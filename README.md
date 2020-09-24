@@ -3,10 +3,13 @@
 My name is Alejandro, friends call me Alex. Currently I am a student at Microverse Software Developer Program.
 Available for hiring.
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+
+📧 email: atoledofr@gmail.com
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
+
 ![](https://img.shields.io/badge/Code-HTML-orange)
 ![](https://img.shields.io/badge/Code-CSS-orange)
 ![](https://img.shields.io/badge/Code-JavaScript-orange)
