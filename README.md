@@ -1,7 +1,7 @@
 ## Alejandro Toledo - Software Developer
 ### Hi there 👋
 
-My name is Alejandro, friends call me Alex. Currently I am a student at Microverse Software Developer Program.
+My name is Alejandro, friends call me Alex. Currently, I am a student at Microverse Software Developer Program.
 Available for hiring.
 
 ### 💪 Current Goals: 
@@ -25,6 +25,15 @@ Available for hiring.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrotoledoweb&show_icons=true&theme=vision-friendly-dark" />
 
+
+## Relevant Projects
+
+<a href="https://github.com/alejandrotoledoweb/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrotoledoweb&repo=budget-app" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
