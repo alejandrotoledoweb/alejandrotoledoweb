@@ -32,7 +32,7 @@ Available for hiring.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrotoledoweb&repo=budget-app" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=roll-dice-game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrotoledoweb&repo=roll-dice-game" />
 </a>
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
