@@ -7,9 +7,9 @@ Available for hiring.
 
 
 - 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/CODE-HTML-orange>)
-![](https://img.shields.io/badge/CODE-CSS-orange)
-![](https://img.shields.io/badge/CODE-JS-orange)
+![](https://img.shields.io/badge/Code-HTML-orange)
+![](https://img.shields.io/badge/Code-CSS-orange)
+![](https://img.shields.io/badge/Code-JavaScript-orange)
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
