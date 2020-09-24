@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-Mu name is Alejandro, friends call me Alex. Currently I am a student at Microverse Software Developer Program.
+My name is Alejandro, friends call me Alex. Currently I am a student at Microverse Software Developer Program.
 Available for hiring.
-You can reach me here:
+
+- 📫 How to reach me: ...
 
 
 - 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/CODE-HTML-orange>)
+![](https://img.shields.io/badge/CODE-CSS-orange)
+![](https://img.shields.io/badge/CODE-JS-orange)
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
