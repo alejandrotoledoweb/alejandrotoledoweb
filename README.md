@@ -16,8 +16,8 @@ Available for hiring.
 
 - ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/stats/?username=alejandrotoledoweb&theme=great-gatsby)
-" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrotoledoweb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrotoledoweb&show_icons=true&theme=great-gatsby" />
 
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
