@@ -6,7 +6,7 @@ Available for hiring.
 
 - 💪 Current Goals: 
 
-🧑‍🎓 Get Graduated from Microverse on February 2021
+🧑‍🎓 Graduate from Microverse on February 2021
 📘 Keep learning more code languages
 ✌️ Collaborate in new projects
 
