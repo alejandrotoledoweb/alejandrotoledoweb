@@ -17,23 +17,26 @@ Available for hiring.
 
 ### 🌱 I’m currently learning 
 
-![](https://img.shields.io/badge/Code-HTML-orange)
-![](https://img.shields.io/badge/Code-CSS-orange)
-![](https://img.shields.io/badge/Code-JavaScript-orange)
+![](https://img.shields.io/badge/Front--End-HTML-yellow)
+![](https://img.shields.io/badge/Front--End-CSS-yellow)
+![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
+![](https://img.shields.io/badge/Back--End-Ruby-orange)
+![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
+![](https://img.shields.io/badge/Back--End-ReactAndRedux-orange)
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrotoledoweb&show_icons=true&theme=vision-friendly-dark" />
 
 
-## 🖥️ Relevant Projects
+<!-- ## 🖥️ Relevant Projects
 
 <a href="https://github.com/alejandrotoledoweb/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrotoledoweb&repo=budget-app" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrotoledoweb&repo=roll-dice-game" />
-</a>
+</a> -->
 <!--
 **alejandrotoledoweb/alejandrotoledoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
