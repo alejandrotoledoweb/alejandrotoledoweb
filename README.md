@@ -20,9 +20,9 @@ Available for hiring.
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
+![](https://img.shields.io/badge/Front--End-ReactAndRedux-yellow)
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
-![](https://img.shields.io/badge/Back--End-ReactAndRedux-orange)
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
