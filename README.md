@@ -6,8 +6,7 @@ Available for hiring.
 
 ### 💪 Current Goals: 
 
-- 🧑‍🎓 Graduate from Microverse on February 2021
-- 📘 Keep learning more code languages
+- 📘 Keep practice for master JavaScript and Ruby on Rails
 - ✌️ Collaborate in new projects
 
 ### 📫 How to reach me: 
