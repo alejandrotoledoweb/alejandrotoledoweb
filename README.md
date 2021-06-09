@@ -1,4 +1,4 @@
-## Alejandro Toledo - Software Developer
+## Alejandro Toledo - Full-Stack Developer
 ### Hi there 👋
 
 My name is Alejandro, friends call me Alex. I am a Full-Stack Developer.
