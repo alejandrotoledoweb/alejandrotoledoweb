@@ -1,12 +1,12 @@
 ## Alejandro Toledo - Software Developer
 ### Hi there 👋
 
-My name is Alejandro, friends call me Alex. Currently, I am a student at Microverse Software Developer Program.
+My name is Alejandro, friends call me Alex. I am a Full-Stack Developer.
 Available for hiring.
 
 ### 💪 Current Goals: 
 
-- 📘 Keep practice for master JavaScript and Ruby on Rails
+- 📘 Keep practice for master JavaScript, React and Redux and Ruby on Rails
 - ✌️ Collaborate in new projects
 
 ### 📫 How to reach me: 
