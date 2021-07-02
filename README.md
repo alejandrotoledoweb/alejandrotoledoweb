@@ -6,7 +6,7 @@ Available for hiring.
 
 ### 💪 Current Goals: 
 
-- 📘 Keep practice for master JavaScript, React and Redux and Ruby on Rails
+- 📘 Keep learning to master JavaScript, React&Redux, Ruby, and Ruby on Rails
 - ✌️ Collaborate in new projects
 
 ### 📫 How to reach me: 
@@ -14,7 +14,7 @@ Available for hiring.
 📧 email: atoledofr@gmail.com
 
 
-### 🌱 I’m currently learning 
+### 🌱 I have experience and currently working on these languages 
 
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
