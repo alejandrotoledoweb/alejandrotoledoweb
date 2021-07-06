@@ -15,7 +15,7 @@ Available for hiring and willing to grow my career.
 
 ### Take a look at my portfolio: 
 
-[My portfolio](https://alejandrotoledoweb.github.io/Portfolio-template-1/#reach-me)
+- [My portfolio](https://alejandrotoledoweb.github.io/Portfolio-template-1/#reach-me)
 
 
 ### 🌱 I have experience and currently working on these languages 
