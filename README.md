@@ -1,8 +1,8 @@
 ## Alejandro Toledo - Full-Stack Developer
-### Hi there 👋
+### Hello there!
 
-My name is Alejandro, friends call me Alex. I am a Full-Stack Developer.
-Available for hiring.
+My name is Alejandro. I am a Full-Stack Developer.
+Available for hiring and willing to grow my career.
 
 ### 💪 Current Goals: 
 
