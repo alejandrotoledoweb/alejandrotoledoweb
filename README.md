@@ -1,13 +1,14 @@
-## Alejandro Toledo - Full-Stack Developer
+## Alejandro Toledo - Full Stack Developer
 ### Hello there!
 
-My name is Alejandro. I am a Full-Stack Developer.
-Available for hiring and willing to grow my career.
+My name is Alejandro. I am a Full Stack Developer who graduated from Microverse.
+
+I just finished my studies and I am willing to put my hand on new projects and grow my career as a developer.
 
 ### 💪 Current Goals: 
 
-- 📘 Keep learning to master JavaScript, React&Redux, Ruby, and Ruby on Rails
-- ✌️ Collaborate in new projects
+- 📘 Keep learning to master JavaScript, React & Redux, Ruby, and Ruby on Rails.
+- ✌️ Collaborate on new projects.
 
 ### 📫 How to reach me: 
 
@@ -15,7 +16,7 @@ Available for hiring and willing to grow my career.
 
 ### Take a look at my portfolio: 
 
-- [My portfolio](https://alejandrotoledoweb.github.io/Portfolio-template-1/)
+- [Alejandro Toledo portfolio](https://alejandrotoledoweb.github.io/Portfolio-template-1/)
 
 
 ### 🌱 I have experience and currently working on these languages 
