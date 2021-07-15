@@ -16,9 +16,10 @@ I just finished my studies and I am willing to put my hand on new projects and g
 
 ### Take a look at my portfolio: 
 
-- [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/
-![image](https://user-images.githubusercontent.com/67283617/125834157-d285e1f7-767a-45d1-9630-b04b0b4cbe3c.png)
-)
+- [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/)
+
+
+
 
 
 ### 🌱 I have experience and currently working on these languages 
