@@ -1,7 +1,7 @@
 ## Alejandro Toledo - Full Stack Developer
 ### Hello there!
 
-My name is Alejandro. I am a Full Stack Developer who graduated from Microverse.
+My name is Alejandro. I am a Full Stack Developer, graduated from Microverse.
 
 I just finished my studies and I am willing to put my hand on new projects and grow my career as a developer.
 
@@ -17,9 +17,6 @@ I just finished my studies and I am willing to put my hand on new projects and g
 ### Take a look at my portfolio: 
 
 - [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/)
-
-
-
 
 
 ### 🌱 I have experience and currently working on these languages 
