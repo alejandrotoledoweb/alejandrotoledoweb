@@ -21,10 +21,14 @@ I just finished my studies and I am willing to put my hand on new projects and g
 
 ### 🌱 I have experience and currently working on these languages 
 
+## Front-End
+
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
 ![](https://img.shields.io/badge/Front--End-ReactAndRedux-yellow)
+
+## Back-End
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
 
