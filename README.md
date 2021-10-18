@@ -16,7 +16,7 @@ I finished my studies and I am willing to put my hand on new projects and grow m
 
 ### Take a look at my portfolio: 
 
-- [Portfolio - Alejandro Toledo](https://portfolio-alejandro-toledo.netlify.app/)
+- [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/)
 
 
 ### 🌱 I have experience and currently working on these languages 
