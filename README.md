@@ -7,7 +7,7 @@ I finished my studies and I am willing to put my hand on new projects and grow m
 
 ### 💪 Current Goals: 
 
-- 📘 Keep learning to master JavaScript, React & Redux, Ruby, and Ruby on Rails.
+- 📘 Keep learning more coding languages and put that knowledge in practice.
 - ✌️ Collaborate on new projects.
 
 ### 📫 How to reach me: 
