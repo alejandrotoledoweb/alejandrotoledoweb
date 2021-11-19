@@ -1,16 +1,16 @@
 ## Alejandro Toledo - Full Stack Developer
 ### Welcome to my Github Account!
 
-My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Online School Program.
+My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Full stack Online School Program.
 
-I finished my studies and I am willing to put my hand on new projects and grow my career as a developer.
+I am willing to grow my career as a developer and keep improving my technical skills.
 
 ### 💪 Current Goals: 
 
 - 📘 Keep learning more coding languages and put that knowledge in practice.
 - ✌️ Collaborate on new projects.
 
-### 📫 How to reach me: 
+### 📫 How to contact me: 
 
 📧 email: atoledofr@gmail.com
 
@@ -31,6 +31,7 @@ I finished my studies and I am willing to put my hand on new projects and grow m
 ## Back-End
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
+![](https://img.shields.io/badge/Back--End-NodeJS-orange)
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
