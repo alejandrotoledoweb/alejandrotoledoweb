@@ -23,14 +23,19 @@ Currently, I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
 
 
-- Databases: 
+- ## Databases:
 ![](https://img.shields.io/badge/DB-MongoDB-green)
 ![](https://img.shields.io/badge/DB-MySQL-green)
 ![](https://img.shields.io/badge/DB-PostgreSQL-green)
 ![](https://img.shields.io/badge/DB-SQLite-green)
 
-- Styling: Styled-components 
-| SASS | CSS | Bootstrap | ReactBootstrap | TailwindCSS |
+- ## Styling: Styled-components 
+![](https://img.shields.io/badge/Style-CSS-red)
+![](https://img.shields.io/badge/Style-SASS-red)
+![](https://img.shields.io/badge/Style-Bootstrap-red)
+![](https://img.shields.io/badge/Style-ReactBootstrap-red)
+![](https://img.shields.io/badge/Style-TailwindCSS-red)
+
 
 In my previous jobs, I develop the skill to reach high standards while delivering projects, I always keep and love learning new things and face new challenges to prove myself and to learn from them.
 
