@@ -9,8 +9,20 @@ I used to work as a Civil Engineer and now I looking for an opportunity to find 
 I always like to keep learning and improving my skills.
 Currently, I have experience working with the following technologies:
 
-- Front-end development: ReactJS, Redux
-- Back-end development: Ruby and Ruby on Rails, NodeJS
+- ## Front-End
+
+![](https://img.shields.io/badge/Front--End-HTML-yellow)
+![](https://img.shields.io/badge/Front--End-CSS-yellow)
+![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
+![](https://img.shields.io/badge/Front--End-ReactAndRedux-yellow)
+
+
+- ## Back-End
+![](https://img.shields.io/badge/Back--End-Ruby-orange)
+![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
+![](https://img.shields.io/badge/Back--End-NodeJS-orange)
+
+
 - Databases: PostgreSQL | SQLite | MySQL
 - Styling: Styled-components | SASS | CSS | Bootstrap | ReactBootstrap | TailwindCSS |
 
@@ -27,20 +39,8 @@ I can tell you that build and maintaining projects by coding would be a lot of e
 
 - [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/)
 
-
-### 🌱 I have experience and currently working on these languages 
-
-## Front-End
-
-![](https://img.shields.io/badge/Front--End-HTML-yellow)
-![](https://img.shields.io/badge/Front--End-CSS-yellow)
-![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
-![](https://img.shields.io/badge/Front--End-ReactAndRedux-yellow)
-
-## Back-End
-![](https://img.shields.io/badge/Back--End-Ruby-orange)
-![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
-![](https://img.shields.io/badge/Back--End-NodeJS-orange)
+<!-- 
+### 🌱 I have experience and currently working on these languages  -->
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotoledoweb&theme=great-gatsby" />
