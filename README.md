@@ -10,7 +10,7 @@ I always like to keep learning and improving my skills.
 Currently, I have experience working with the following technologies:
 
 - Front-end development: ReactJS, Redux
-- Back-end development: Ruby and Ruby on Rails
+- Back-end development: Ruby and Ruby on Rails, NodeJS
 - Databases: PostgreSQL | SQLite | MySQL
 - Styling: Styled-components | SASS | CSS | Bootstrap | ReactBootstrap | TailwindCSS |
 
