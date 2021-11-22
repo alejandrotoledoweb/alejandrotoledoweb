@@ -1,5 +1,5 @@
 ## Alejandro Toledo - Full Stack Developer
-### Welcome to my Github Account!
+### Welcome!
 
 My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Full stack Online School Program.
 
