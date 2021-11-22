@@ -3,12 +3,21 @@
 
 My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Full stack Online School Program.
 
-I am willing to grow my career as a developer and keep improving my technical skills.
+Hello, my name is Alejandro, I'm from Ecuador, South America.
 
-### 💪 Current Goals: 
+I used to work as a Civil Engineer and now I looking for an opportunity to find my first job as a developer.
+I always like to keep learning and improving my skills.
+Currently, I have experience working with the following technologies:
 
-- 📘 Keep learning more coding languages and put that knowledge in practice.
-- ✌️ Collaborate on new projects.
+- Front-end development: ReactJS, Redux
+- Back-end development: Ruby and Ruby on Rails
+- Databases: PostgreSQL | SQLite | MySQL
+- Styling: Styled-components | SASS | CSS | Bootstrap | ReactBootstrap | TailwindCSS |
+
+In my previous jobs, I develop the skill to reach high standards while delivering projects, I always keep and love learning new things and face new challenges to prove myself and to learn from them.
+
+If you ask me what would make me happy?
+I can tell you that build and maintaining projects by coding would be a lot of enjoyment for me. The tech industry is growing up so fast and is something that really catches my attention and I want to be part of that evolving process while I continue learning more and put that knowledge into practice.
 
 ### 📫 How to contact me: 
 
