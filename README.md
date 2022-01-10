@@ -32,7 +32,7 @@ Currently, I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Style-Bootstrap-red)
 ![](https://img.shields.io/badge/Style-ReactBootstrap-red)
 ![](https://img.shields.io/badge/Style-TailwindCSS-red)
-![](https://img.shields.io/badge/Style-HeadessUI-red)
+![](https://img.shields.io/badge/Style-HeadlessUI-red)
 
 
 
