@@ -32,6 +32,8 @@ Currently, I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Style-Bootstrap-red)
 ![](https://img.shields.io/badge/Style-ReactBootstrap-red)
 ![](https://img.shields.io/badge/Style-TailwindCSS-red)
+![](https://img.shields.io/badge/Style-HeadessUI-red)
+
 
 
 In my previous jobs, I develop the skill to reach high standards while delivering projects, I always keep and love learning new things and face new challenges to prove myself and to learn from them.
