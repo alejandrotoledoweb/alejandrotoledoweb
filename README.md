@@ -4,7 +4,7 @@
 My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Full stack Online School Program.
 
 I am currently looking for a new opportinuty as a web software developer.
-Currently, I have experience working with the following technologies:
+I have experience working with the following technologies:
 
 - ## Front-End
 
