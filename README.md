@@ -18,6 +18,7 @@ I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
+![](https://img.shields.io/badge/Back--End-Java-orange)
 
 
 - ## Databases:
