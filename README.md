@@ -1,9 +1,7 @@
 ## Alejandro Toledo - Full Stack Developer
 ### Welcome!
 
-My name is Alejandro Toledo. I am a Full Stack Developer, graduated from Microverse Full stack Online School Program.
-
-I am currently looking for a new challenge and opportinuty as a web software developer.
+My name is Alejandro Toledo. I am a Full Stack Developer, who graduated from Microverse.
 I have experience working with the following technologies:
 
 - ## Front-End
