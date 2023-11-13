@@ -35,10 +35,10 @@ I have experience working with the following technologies:
 
 
 
-In my previous jobs, I develop the skill to reach high standards while delivering projects, I always keep and love learning new things and face new challenges to prove myself and to learn from them.
+In my previous jobs, I developed the skill to reach high standards while delivering projects, I always keep and love learning new things and face new challenges to prove myself and to learn from them.
 
 If you ask me what would make me happy?
-I can tell you that build and maintaining projects by coding would be a lot of enjoyment for me. The tech industry is growing up so fast and is something that really catches my attention and I want to be part of that evolving process while I continue learning more and put that knowledge into practice.
+I can tell you that building and maintaining projects by coding would be a lot of enjoyment for me. The tech industry is growing up so fast and is something that really catches my attention and I want to be part of that evolving process while I continue learning more and put that knowledge into practice.
 
 ### 📫 How to contact me: 
 
@@ -46,7 +46,7 @@ I can tell you that build and maintaining projects by coding would be a lot of e
 
 ### Take a look at my portfolio: 
 
-- [Portfolio - Alejandro Toledo](https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/)
+- [Portfolio - Alejandro Toledo]([https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/](https://alejandro-toledo-portfolio.netlify.app/)
 
 <!-- 
 ### 🌱 I have experience and currently working on these languages  -->
