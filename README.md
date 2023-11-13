@@ -9,7 +9,9 @@ I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
-![](https://img.shields.io/badge/Front--End-ReactAndRedux-yellow)
+![](https://img.shields.io/badge/Front--End-React-yellow)
+![](https://img.shields.io/badge/Front--End-ReactNative-yellow)
+![](https://img.shields.io/badge/Front--End-Angular-yellow)
 
 
 - ## Back-End
@@ -17,6 +19,8 @@ I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
 ![](https://img.shields.io/badge/Back--End-Java-orange)
+![](https://img.shields.io/badge/Back--End-SpringBoot-3-orange)
+![](https://img.shields.io/badge/Back--End-Spring-6-orange)
 
 
 - ## Databases:
