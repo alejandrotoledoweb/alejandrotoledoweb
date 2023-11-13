@@ -20,7 +20,6 @@ I have experience working with the following technologies:
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
 ![](https://img.shields.io/badge/Back--End-Java-orange)
 ![](https://img.shields.io/badge/Back--End-SpringBoot-3-orange)
-![](https://img.shields.io/badge/Back--End-Spring-6-orange)
 
 
 - ## Databases:
