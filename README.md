@@ -46,7 +46,7 @@ I can tell you that building and maintaining projects by coding would be a lot o
 
 ### Take a look at my portfolio: 
 
-- [Portfolio - Alejandro Toledo]([https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/](https://alejandro-toledo-portfolio.netlify.app/)
+- [Portfolio - Alejandro Toledo]([https://alejandrotoledoweb.github.io/alejandro-toledo-portfolio/](https://alejandro-toledo-portfolio.netlify.app/))
 
 <!-- 
 ### 🌱 I have experience and currently working on these languages  -->
